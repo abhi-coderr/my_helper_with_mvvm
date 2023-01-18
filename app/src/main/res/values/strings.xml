@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Async Api Calling 2</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="no_data_found">No Data Found!</string>
+</resources>
